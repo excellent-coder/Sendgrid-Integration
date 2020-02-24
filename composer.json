@@ -1,0 +1,14 @@
+{
+    "name": "worldtok/sendgrid",
+    "description": "Sending Emails fast with sendgrid with php",
+    "type": "project",
+    "license": "mit",
+    "authors": [{
+        "name": "Emmanuel David",
+        "email": "info@worldtok.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    }
+}
